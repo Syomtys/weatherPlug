@@ -1,0 +1,36 @@
+.content_weather{
+	width: 50vw;
+	text-align: center;
+	background: #b4c0ff;
+	border-radius: 5px;
+	padding: 5px;
+}
+.content_weather span{
+	display: block;
+}
+.item {
+	display: flex;
+	justify-content: space-around;
+}
+.user_weather {
+	display: flex;
+	justify-content: space-around;
+	background: #8a9dff;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+.item .city{
+	width: 25%;
+}
+.list_users_weather{
+	background: #8a9dff;
+	margin: 10px;
+	border-radius: 5px;
+}
+.content_weather button{
+	background: #0f31e0;
+	border: #03125d 1px solid;
+	border-radius: 2px;
+	color: #8a9dff;
+}
